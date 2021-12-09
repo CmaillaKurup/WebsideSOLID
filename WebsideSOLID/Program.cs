@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Net;
 
 namespace WebsideSOLID
 {
@@ -6,7 +7,10 @@ namespace WebsideSOLID
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ResponsMng response;
+            //response = ((HttpWebResponse) response).StatusDescription;
+
+            //Console.WriteLine (((HttpWebResponse)response).StatusDescription);
         }
     }
 }
