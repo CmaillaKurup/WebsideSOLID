@@ -4,10 +4,10 @@
     <projectFile>WebsideSOLID/WebsideSOLID.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3e6a264-5f6e-4607-b58c-c1e14b9439c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WebsideSOLID/IResponseMng.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebsideSOLID/ResponsMng.cs" afterDir="false" />
+    <list default="true" id="e3e6a264-5f6e-4607-b58c-c1e14b9439c4" name="Default Changelist" comment="påbegyndt">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebsideSOLID/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebsideSOLID/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebsideSOLID/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebsideSOLID/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebsideSOLID/ResponsMng.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebsideSOLID/ResponsMng.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +63,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639049763081</updated>
-      <workItem from="1639049767154" duration="1191000" />
+      <workItem from="1639049767154" duration="2081000" />
     </task>
+    <task id="LOCAL-00001" summary="påbegyndt">
+      <created>1639051391860</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639051391860</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
@@ -82,5 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="påbegyndt" />
+    <option name="LAST_COMMIT_MESSAGE" value="påbegyndt" />
   </component>
 </project>

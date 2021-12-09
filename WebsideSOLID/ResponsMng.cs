@@ -11,7 +11,7 @@ namespace WebsideSOLID
             WebRequest request = WebRequest.Create("https://docs.microsoft.com");
             request.Credentials = CredentialCache.DefaultCredentials;
             WebResponse response = request.GetResponse();
-            Stream dataStream = response.GetResponseStream();
+            Console.WriteLine(((HttpWebResponse)response).StatusDescription);
             response.Close();
         }
     }
